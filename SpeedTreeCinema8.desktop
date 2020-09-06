@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SpeedTree Cinema 8
+Comment=SpeedTree desktop shortcut!
+Exec=/opt/SpeedTree_Cinema_v8.3.0/startSpeedTreeModeler.sh
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/SpeedTree_Cinema_v8.3.0/SpeedTree_Logo_Pink.png
+
+Name[en_US]=SpeedTree Cinema 8

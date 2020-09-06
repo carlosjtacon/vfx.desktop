@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Mari4.6v4
+Comment=Mari desktop shortcut!
+Exec=/opt/Mari4.6v4/mari --name "Mari4.6v4"
+StartupWMClass=MARI
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/Mari4.6v4/Media/Icons/Mari.png
+
+Name[en_US]=Mari4.6v4

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ArmorPaint
+Comment=ArmorPaint desktop shortcut!
+Exec=/opt/ArmorPaint/ArmorPaint
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/ArmorPaint/AppIcon.png
+
+Name[en_US]=ArmorPaint

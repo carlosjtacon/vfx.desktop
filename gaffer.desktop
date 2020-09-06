@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Gaffer
+Comment=Gaffer desktop shortcut!
+Exec=/opt/gaffer-0.57.0.0-linux/bin/gaffer
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/gaffer-0.57.0.0-linux/GafferLogoMini.svg
+
+Name[en_US]=Gaffer

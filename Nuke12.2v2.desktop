@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Nuke12.2v2
+Comment=Nuke desktop shortcut!
+Exec=/opt/Nuke12.2v2/Nuke12.2 --nukex 
+StartupWMClass=NUKE
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/Nuke12.2v2/plugins/icons/NukeApp256.png
+
+Name[en_US]=Nuke12.2v2

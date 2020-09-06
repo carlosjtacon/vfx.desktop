@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Clarisse
+Comment=Clarisse desktop shortcut!
+Exec=/opt/isotropix_clarisse_ifx_ifx_4.0_sp5b_linux64/clarisse/clarisse
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/isotropix_clarisse_ifx_ifx_4.0_sp5b_linux64/clarisse/docs/common/images/logo_clarisse.png
+
+Name[en_US]=Clarisse

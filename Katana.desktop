@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Katana3.5v4
+Comment=Katana desktop shortcut!
+Exec=/opt/Katana3.5v4/KatanaLauncherScript.sh
+StartupWMClass=KATANA
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/Katana3.5v4/katana-icon.png
+ 
+Name[en_US]=Katana3.5v4

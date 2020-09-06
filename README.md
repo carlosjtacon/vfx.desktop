@@ -1,0 +1,1 @@
+`/usr/share/applications` linux desktop files for some vfx software

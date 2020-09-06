@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Unreal Engine 4
+Comment=Unreal Engine 4 desktop shortcut!
+Exec=/home/carlos/UnrealEngine-release/Engine/Binaries/Linux/UE4Editor
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/home/carlos/UnrealEngine-release/ue4_icon.png
+
+Name[en_US]=Unreal Engine 4
