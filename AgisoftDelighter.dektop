@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Delighter
+Comment=Delighter desktop shortcut!
+Exec=/opt/agisoft/delighter/delighter.sh
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/agisoft/agisoft_delighter.png
+
+Name[en_US]=Delighter
