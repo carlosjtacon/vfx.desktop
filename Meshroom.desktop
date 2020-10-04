@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Meshroom
+Comment=Meshroom desktop shortcut!
+Exec=/opt/Meshroom-2019.2.0/Meshroom
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/Meshroom-2019.2.0/logo_meshroom.png
+
+Name[en_US]=Meshroom
