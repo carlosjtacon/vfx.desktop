@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PTGui
+Comment=PTGui desktop shortcut!
+Exec=/opt/PTGui_Pro_12_beta_12/PTGui
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/opt/PTGui_Pro_12_beta_12/panorama.png
+
+Name[en_US]=PTGui
